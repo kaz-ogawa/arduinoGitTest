@@ -1,5 +1,6 @@
 #define LED_BTN 7
-#define SERVO_BTN 8
+#define SERVO_BTN 7
+#define REDLED_BTN 1
 
 void setup() {
   // put your setup code here, to run once:
