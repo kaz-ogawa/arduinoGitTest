@@ -5,7 +5,7 @@
 
 void setup() {
   // put your setup code here, to run once:
-  int cnt;
+  int cnt2;
 }
 
 void loop() {
